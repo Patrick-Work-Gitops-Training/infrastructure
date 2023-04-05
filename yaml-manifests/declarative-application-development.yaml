@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: <Your Infrastrcture Repository URL>
+    repoURL: https://github.com/Patrick-Work-Gitops-Training/infrastructure.git
     targetRevision: development
     path: yaml-manifests
   destination:
